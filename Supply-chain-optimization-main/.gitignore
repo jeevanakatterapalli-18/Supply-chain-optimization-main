@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+
+# Raw data (large files — keep out of git, document how to obtain in docs/)
+data/raw/*.csv
+
+# Power BI temp files
+*.pbix.bak
+~$*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
