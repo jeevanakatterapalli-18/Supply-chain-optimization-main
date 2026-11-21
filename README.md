@@ -7,19 +7,19 @@ Built as a portfolio project demonstrating the skill set of a Data Analyst / BI 
 ## Dashboard Preview
 
 **Executive Summary**
-![Executive Summary](images/dashboard_executive_summary.png)
+![Executive Summary](Supply-chain-optimization-main/images/dashboard_executive_summary.png)
 
 **Inventory & Warehouse**
-![Inventory & Warehouse](images/dashboard_inventory_warehouse.png)
+![Inventory & Warehouse](Supply-chain-optimization-main/images/dashboard_inventory_warehouse.png)
 
 **Supplier & Shipping**
-![Supplier & Shipping](images/dashboard_supplier_shipping.png)
+![Supplier & Shipping](Supply-chain-optimization-main/images/dashboard_supplier_shipping.png)
 
 **Product Analysis**
-![Product Analysis](images/dashboard_product_analysis.png)
+![Product Analysis](Supply-chain-optimization-main/images/dashboard_product_analysis.png)
 
 **Category Drillthrough**
-![Category Detail](images/dashboard_category_detail.png)
+![Category Detail](Supply-chain-optimization-main/images/dashboard_category_detail.png)
 
 The Power BI template (`powerbi/supply_chain_dashboard.pbit`) and a full PDF export (`dashboard/dashboard_export.pdf`) are included in this repo. The `.pbit` has no cached data — open it in Power BI Desktop and point it at your own `data/processed/cleaned_supply_chain.csv` (or MySQL instance) to reload it.
 
